@@ -1,2 +1,2 @@
-# Woodetmoss
-Woodetmoss Repository
+# Automating Woodetmoss
+Repository for the Woodetmoss website *Woodetmoss
